@@ -1,0 +1,7 @@
+{
+  "repositoryName": "rwi-glisten-ai",
+  "adapter": "@slicemachine/adapter-next",
+  "libraries": ["./src/slices"],
+  "localSliceSimulatorURL": "http://127.0.0.1:3000/slice-simulator",
+  "apiEndpoint": ""
+}
